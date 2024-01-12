@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">wastedetection</string>
+    <string name="start_button">GET STARTED</string>
+    <string name="Waste_Classification">WASTE         CLASSIFICATION</string>
+    <string name="logo">Logo</string>
+    <string name="info_img">Info Images</string>
+    <string name="Bottom_Img">Bottom Image</string>
+    <string name="Top_Img">Top Image</string>
+    <string name="Select">SELECT</string>
+    <string name="Capture">CAPTURE</string>
+    <string name="Predict">PREDICT</string>
+    <string name="Description">Please Capture or Select the picture first and then click the predict button</string>
+    <string name="info">Waste classification is the process of categorizing different types of waste materials based on their physical and chemical properties. This helps to identify appropriate methods for disposal, treatment, or recycling, and reduces the environmental impact of waste.</string>
+    <string name="Paper">Paper waste includes materials such as newspapers, magazines, office paper, and cardboard. These can be recycled by separating them from other waste and placing them in a designated recycling bin or taking them to a local recycling center.</string>
+    <string name="Plastic">Plastic waste is typically categorized by the type of plastic, which can be identified by a number printed on the container. The most commonly recycled plastics include polyethylene terephthalate (PET) used in water bottles, and high-density polyethylene (HDPE) used in milk jugs and detergent bottles. However, not all plastics can be recycled, and different types of plastic require different recycling methods.</string>
+    <string name="Cardboard">Cardboard waste can also be recycled by breaking it down and placing it in a designated recycling bin along with other paper products.</string>
+    <string name="Metal">Metal waste includes materials such as aluminum cans or steel food containers, which can be recycled by rinsing them out and placing them in a designated recycling bin.</string>
+    <string name="Glass">Glass waste can be categorized by color (clear, green, or brown) and recycled. However, broken glass should not be placed in the recycling bin, as it can be a safety hazard for workers at recycling centers.</string>
+</resources>
